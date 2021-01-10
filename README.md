@@ -38,27 +38,23 @@ Top 10 industries basis total revenue:
 * Construction - $437M
 * Consumer Products & Services - $412M
 
-### RL2 Reclaimer
+### Which company had the maximum change in profit from 2014 to 2015?
 
-* The RL2 reclaimer does not need maintenance due to the idle capacity not exceeding the allowable threshold within September.
-* The RL2 reclaimer's idle capacity peaked at 9.64% and may need maintenance sometime soon.
+Greatest profit change to the upside from 2014 - 2015:
 
-### SR1 Reclaimer
+* Foxwml - 4,120%
 
-* The SR1 reclaimer needs maintenance due to idle capacity exceeding the allowable threshold 103 times within September.
-* The SR1 reclaimer's idle capacity peaked at 100.00% due to a significant amount of missing date data.
-* If missing data is excluded from the calculations because the reclaimer could have been parked or because the exact case for missing date data is currently unknown, the idle capacity only exceeds the allowable threshold 1 time and peaks at 10.34%. 
+Greatest change to the downside from 2014 - 2015:
 
-### SR4A Reclaimer
+* Grippingstirring - 10,629%
 
-* The SR4A reclaimer needs maintenance due to idle capacity exceeding the allowable threshold 225 times within September.
-* The SR4A reclaimer's idle capacity peaked at 100.00% due to a significant amount of missing date data.
-* If missing data is excluded from the calculations because the reclaimer could have been parked or because the exact case for missing date data is currently unknown, the idle capacity only exceeds the allowable threshold 1 time and peaks at 10.31%. 
+### Identify the companies that fulfill these 3 criterias (Consider 2015 numbers)
+### 	a) They should be among the top 100 in terms of revenue
+###   b) They should be among the top 100 in terms of expenses
+### 	c) They should be among the top 100 in terms of growth percentage
 
-### SR6 Reclaimer
-
-* The SR6 reclaimer needs maintenance due to idle capacity exceeding the allowable threshold 23 times within September.
-* The SR6 reclaimer's idle capacity peaked at 13.04%.
+* Hot-Electrics - 2015 Rev: $12,214M, 2015 Exp: $1,412M, 2015 Growth: 595%
+* Shadefronted - 2015 Rev: $12,242M, 2015 Exp: $1,382M, 2015 Growth: 537% 
 
 ### Dashboard 
 
@@ -71,6 +67,7 @@ Top 10 industries basis total revenue:
 
 ## Directory Files
 
-1) **Coal_Terminal_Maintenance.sql** - Analysis in MySQL.
-2) **Coal_Terminal_Maintenance_Dashboard.xlsx** - Dashboard in Microsoft Excel.
-3) **Cole_Data** - All project data.
+1) **StartUp_Analysis.sql** - Analysis in MySQL.
+2) **Stored_Procedures.sql** - Project stored procedures. 
+3) **StartUp_Analysis_Dashboard.xlsx** - Dashboard in Microsoft Excel.
+4) **Data** - All project data.
