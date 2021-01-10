@@ -2,9 +2,7 @@
 
 ## Project Description
 
-The analysis looks to analyze coal reclaimers' workloads in tonnes of coal moved during working hours to determine which reclaimers need maintenance.
-
-If anyone of the reclaimers average, over a seven-hour rolling window, 10% or higher below the nominal tonnes to be moved of 4,200, the reclaimer will need maintenance.
+The analysis seeks to explore specific questions on data regarding start-up companies.
 
 ## Methods Used
 
@@ -12,10 +10,33 @@ If anyone of the reclaimers average, over a seven-hour rolling window, 10% or hi
 
 ## Results 
 
-### RL1 Reclaimer
+### Which are the top 10 industries basis Revenue? 
 
-* The RL1 reclaimer needs maintenance due to the idle capacity exceeding the allowable threshold 28 times within September. 
-* The RL1 recliamer's idle capacity peaked at 15.92%.
+Top 10 industries basis average revenue per company:
+
+* Media  - $10M
+* Retail - $10M
+* Security - $10M
+* Government Services - $9M
+* Environmental Services - $9M
+* Logistics & Transportation - $9M
+* Engineering - $9M
+* Real Estate - $9M
+* IT Services - $9M
+* Consumer Products & Services - $9M
+
+Top 10 industries basis total revenue:
+
+* IT Services - $1,345M
+* Software - $775M
+* Health - $774M
+* Business Products & Services - $596M
+* Advertising & Marketing - $594M
+* Government Services - $472M
+* Financial Services - $468M
+* Retail - $463M
+* Construction - $437M
+* Consumer Products & Services - $412M
 
 ### RL2 Reclaimer
 
