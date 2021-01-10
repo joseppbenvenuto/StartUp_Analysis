@@ -49,9 +49,9 @@ Greatest change to the downside from 2014 - 2015:
 * Grippingstirring - 10,629%
 
 ### Identify the companies that fulfill these 3 criterias (Consider 2015 numbers)
-&nbsp;&nbsp;&nbsp; **a) They should be among the top 100 in terms of revenue**
-&nbsp;&nbsp;&nbsp; **b) They should be among the top 100 in terms of expenses**
-&nbsp;&nbsp;&nbsp; **c) They should be among the top 100 in terms of growth percentage**
+&nbsp;&nbsp;&nbsp; **a) They should be among the top 100 in terms of revenue**<br>
+&nbsp;&nbsp;&nbsp; **b) They should be among the top 100 in terms of expenses**<br>
+&nbsp;&nbsp;&nbsp; **c) They should be among the top 100 in terms of growth percentage**<br>
 
 * Hot-Electrics - 2015 Rev: $12,214M, 2015 Exp: $1,412M, 2015 Growth: 595%
 * Shadefronted - 2015 Rev: $12,242M, 2015 Exp: $1,382M, 2015 Growth: 537% 
