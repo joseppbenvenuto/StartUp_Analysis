@@ -53,8 +53,8 @@ Greatest change to the downside from 2014 - 2015:
 **b) They should be among the top 100 in terms of expenses**<br>
 **c) They should be among the top 100 in terms of growth percentage**<br>
 
-* Hot-Electrics - 2015 Rev: $12,214M, 2015 Exp: $1,412M, 2015 Growth: 595%
-* Shadefronted - 2015 Rev: $12,242M, 2015 Exp: $1,382M, 2015 Growth: 537% 
+* Hot-Electrics - **2015 Rev:** $12,214M, **2015 Exp:** $1,412M, **2015 Growth:** 595%
+* Shadefronted - **2015 Rev:** $12,242M, **2015 Exp:** $1,382M, **2015 Growth:** 537% 
 
 ### Dashboard 
 
