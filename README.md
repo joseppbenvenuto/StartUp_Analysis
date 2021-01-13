@@ -70,4 +70,3 @@ Greatest change to the downside from 2014 - 2015:
 1) **StartUp_Analysis.sql** - Analysis in MySQL.
 2) **Stored_Procedures.sql** - Project stored procedures. 
 3) **StartUp_Analysis_Dashboard.xlsx** - Dashboard in Microsoft Excel.
-4) **Data** - All project data.
