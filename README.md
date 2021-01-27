@@ -6,7 +6,7 @@ The analysis seeks to explore specific questions on data regarding start-up comp
 
 ## Methods Used
 
-1) Data exploration, cleaning, and analysis.
+1) Data exploration, cleaning, and descriptive statistical analysis.
 
 ## Results 
 
