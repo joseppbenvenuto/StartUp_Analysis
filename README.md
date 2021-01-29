@@ -12,7 +12,7 @@ The analysis seeks to explore specific questions on data regarding start-up comp
 
 ### Which are the top 10 industries basis Revenue? 
 
-Top 10 industries basis average revenue per company:
+**Top 10 industries basis average revenue per company**:
 
 * Media  - $10M
 * Retail - $10M
@@ -25,7 +25,7 @@ Top 10 industries basis average revenue per company:
 * IT Services - $9M
 * Consumer Products & Services - $9M
 
-Top 10 industries basis total revenue:
+**Top 10 industries basis total revenue**:
 
 * IT Services - $1,345M
 * Software - $775M
@@ -40,11 +40,11 @@ Top 10 industries basis total revenue:
 
 ### Which company had the maximum change in profit from 2014 to 2015?
 
-Greatest profit change to the upside from 2014 - 2015:
+**Greatest profit change to the upside from 2014 - 2015**:
 
 * Foxwml - 4,120%
 
-Greatest change to the downside from 2014 - 2015:
+**Greatest change to the downside from 2014 - 2015**:
 
 * Grippingstirring - 10,629%
 
