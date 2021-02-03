@@ -2,7 +2,7 @@
 
 ## Project Description
 
-The analysis seeks to explore specific questions on data regarding start-up companies.
+The analysis looked to explore specific questions on data regarding start-up companies.
 
 ## Methods Used
 
