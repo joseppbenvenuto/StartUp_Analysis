@@ -1,4 +1,4 @@
-# StartUp_Analysis
+# Start-Up Analysis
 
 ## Project Description
 
