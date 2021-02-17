@@ -71,3 +71,4 @@ The analysis looked to explore specific questions on data regarding start-up com
 1) **StartUp_Analysis.sql** - Analysis in MySQL.
 2) **Stored_Procedures.sql** - Project stored procedures. 
 3) **StartUp_Analysis_Dashboard.xlsx** - Dashboard in Microsoft Excel.
+4) **Data** - Data folder.
