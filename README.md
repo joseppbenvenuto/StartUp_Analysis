@@ -56,7 +56,7 @@ The analysis looked to explore specific questions on data regarding start-up com
 * Hot-Electrics - **2015 Rev:** $12,214M, **2015 Exp:** $1,412M, **2015 Growth:** 595%
 * Shadefronted - **2015 Rev:** $12,242M, **2015 Exp:** $1,382M, **2015 Growth:** 537% 
 
-### Dashboard 
+## Dashboard 
 
 ![](ReadMe_Images/Dash.png)
 
